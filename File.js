@@ -1,1 +1,1 @@
-console.logs("Hey how are you my boy?");
+console.logs("Hey how are you?");
